@@ -15,21 +15,16 @@ This project provides a deep learning solution for detecting plant diseases usin
 
 ---
 
-## 📂 Project Structure
+plant disease prediction/
+├── .venv/                               # Python virtual environment
+├── static/                              # Folder for static assets (CSS, images, JS)
+│   └── ...                              # Add CSS/images as needed
+├── templates/                           # Folder for HTML templates
+│   ├── index.html                       # Main page with upload form
+│   └── result.html                      # (Optional) Results display page
+├── app.py                               # Main Flask app script
+├── plant-disease-detection-using-cnn... # Jupyter notebook for model training
 
-```
-
-.
-├── app/
-│   └── main.py               # Web interface for predictions
-├── model\_training\_notebook/
-│   └── Plant\_Disease\_Training.ipynb  # Model training and evaluation
-├── test\_images/              # Sample images to test model
-├── trained\_model/            # Trained .h5 model file
-├── requirements.txt          # Python dependencies
-└── README.md
-
-````
 
 ---
 
