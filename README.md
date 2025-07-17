@@ -12,7 +12,7 @@ A Python-based image classifier built with a Convolutional Neural Network (CNN) 
 This project provides a deep learning solution for detecting plant diseases using image classification. It uses CNNs to learn from a large dataset of healthy and diseased plant leaves, making it easier for farmers and researchers to identify and prevent crop damage early.
 
 ---
-
+```Project Structure
 plant disease prediction/
 ├── .venv/                               # Python virtual environment
 ├── static/                              # Folder for static assets (CSS, images, JS)
