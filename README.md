@@ -1,6 +1,4 @@
-Sure! Here's the complete `README.md` content you can copy and paste directly into your repository:
 
----
 
 ```markdown
 # 🌿 Plant Disease Prediction using CNN
